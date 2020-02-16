@@ -5,17 +5,10 @@ Telegram: @SuperElina
 Email: elina.minnie1@gmail.com
 
 For the past 6 years, I've been working as a project manager. I've worked with various project and obtained a profession that I truly love. But recently I've started feeling lack of professional development. Learning to code has been my long time wish and I thought now is a good time to try. So my goal right now is to obtain programming as a new skill and see where it takes me.
+
 HTML, CSS, Git, Agile 
 
-```<!DOCTYPE html>
-<html lang="ru">
-  <head>
-    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700|Old+Standard+TT&display=swap&subset=cyrillic" rel="stylesheet">
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="style.css">
-    <title>Портфолио менеджера проектов</title>
-  </head>
-
+```
   <body>
    <header class="page-header">
      <div class="container">
@@ -31,19 +24,6 @@ HTML, CSS, Git, Agile
       <div class="container">
        <h1 class="heading">Элина Миннигалиева</h1>
        <p>Менеджер проектов</p>
-      </div>
-    </section>
-
-    <section class="intro">
-      <div class="container">
-       <h2 class="subheading">Давайте познакомимся</h2>
-       <figure class="user-image">
-         <img src="files/user.jpg" width="928" height="536" alt="Фотография Неопознанного Енота"
-       </figure>
-       <h3>Пара слов о себе</h3>
-       <p>Я управляю проектами и процессами. </p>
-       <h3>Чем могу быть полезна</h3>
-       <p>Придумаю процесс для работы команды проекта. Выберу и настрою инструменты для ведения задач, документации и общения. Расскажу, чем отличается скрам от канбана.</p>
       </div>
     </section>
 
@@ -72,9 +52,13 @@ HTML, CSS, Git, Agile
       </div>
     </footer>
   </body>
-</html>```
+</html>
 
-```body {
+```
+
+```
+
+body {
   margin: 0;
   min-width: 960px;
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
@@ -267,7 +251,9 @@ HTML, CSS, Git, Agile
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
-}```
+}
+
+```
 
 Since 2014, I've been working as a project manager. Right now I am studying HTML, CSS and JavaScript at RSScool. Here's a link to a repo with a portfolio site that I am building for myself [GitHub] (https://github.com/elinaminnigalieva/elinas-site)
 
