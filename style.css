@@ -1,0 +1,12 @@
+.heading {
+    margin: 16px;
+    font-family: "Times New Roman", serif;
+    font-size: 36px;
+    line-height: 96px;
+    font-weight: 400;
+}
+.center {
+    margin: auto;
+    width: 1024px;
+    padding: 10px;
+  }
